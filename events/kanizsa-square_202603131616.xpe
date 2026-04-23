@@ -1,0 +1,12 @@
+#Expyriment 1.0.0 (Python 3.11.9), .xpe-file, coding: cp1252
+#date: Fri Mar 13 2026 16:16:39
+#sha1: 03a88c
+#modules: 
+#display: size=(800, 600), window_mode=True, opengl=2
+#os: uname_result(system='Windows', node='DESKTOP-JEDIA1I', release='10', version='10.0.19045', machine='AMD64')
+Time,Type,Event,Value,Detail,Detail2
+248,stderr,received,'Traceback (most recent call last):'
+248,stderr,received,'  File "c:\\Users\\natha\\OneDrive\\Documents\\Etudes\\Master cog-SUP\\Experimental Approach\\Materials\\Week-3\\Exercises\\kanizsa-square.py", line 12, in <module>'
+249,stderr,received,'    pos1 = (-half, half) #tl'
+250,stderr,received,'             ^^^^'
+250,stderr,received,"NameError: name 'half' is not defined"
